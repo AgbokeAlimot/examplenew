@@ -1,0 +1,419 @@
+body{
+	margin: 0px; padding: 0px;
+}
+.Container{
+	width : 1300px;
+	height: auto;
+	margin-left: 2%;
+    border: 1px solid grey;
+}
+
+#header{
+    background-color: gray;
+}
+#HeaderNavigation{
+	margin-top: 20px;
+	height: 70px;
+	width: 1300px;
+	background-color: grey;
+}
+#HeaderNavigation img{
+	float:left;
+	width: 150px;
+	 margin-left: 70px;
+}
+#HeaderNavigation ul li{
+	list-style-type: none;
+	float:right;
+	margin: 5px;
+	text-decoration: none;
+}
+#HeaderNavigation ul li a{
+	text-decoration:none;
+	color: #fff;
+	margin-right: 50px;
+}
+
+#HeaderNavigation ul li a{
+	text-decoration:none;
+	color: #fff;
+	margin-right: 50px;
+}
+#Sliders{
+    background-image: url("image\ fntrak.jpg");
+	height: 500px;
+	width: 1299px;
+	border: 1px solid grey;
+    text-decoration: none;
+    color: white;
+}
+.Sliderss{
+    margin-left: 50px;
+    margin-top: 10%;
+    height: 500px;
+    width: 1300px;
+    
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+}
+
+.Sliderss a{
+	text-decoration: none;
+    color: white;
+}
+
+.Sliderss button{
+    height: 50px;
+    width: 250px;
+    background-color: red;
+}
+#Sliders1{
+    background-image: url("f5.jpg");
+    height: 200px;
+    width: 1299px;
+    border: 1px solid grey;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+#Whoweare{
+    margin-left: 0px;
+    height: 400px;
+    width: 650px;       
+    float: left;
+    font-size:large;
+    background-color: white;
+            
+}
+
+#Whoweare a{
+    text-decoration: none;
+    color: white;
+}
+#Whoweare button{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: darkred;
+}
+         
+         
+         
+         
+#WhoweareandnewDWBI{
+    height: 400px;
+    width: 1299px;
+    border: 1px solid white;
+    float: left;
+}
+         
+#section5 a{
+             
+    text-decoration: none;
+    color: red;
+    margin-left: 100px;
+}
+         
+.grid1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+}
+         
+#section5s{
+             
+    border: 1px solid grey;
+         
+}
+#section5{
+    margin-top: 50px;
+    width: 1300px;
+    background-color: lightgray;
+             
+         
+}
+         
+.grid2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+}
+         
+.grid3{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+         
+#milestone{
+    border: 1px solid grey;	
+    background-color: grey;
+    width: 1299px;
+}
+.milestonesub{
+    text-align: center;
+   
+}
+       
+.milestoneSub1 {
+    margin-left: 80px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+}
+.milestoneSub2 {
+    margin-left: 80px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+}
+         
+.milestoneSub3 {
+    margin-left: 80px;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+         
+}
+#WPCU{
+    border: 1px solid grey;	
+    width: 1298.5px;
+    background-color: #fff;	
+}
+#WhyPeopleChooseUs{
+    text-align: center;
+}
+.WhyPeopleChooseUs1{
+    margin-left: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+         
+}
+.WhyPeopleChooseUs2{
+    margin-left: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: aut0;
+         
+}
+                         
+                 
+                     #Picsec{
+                         background-image: url("f1.jpg");
+                         height: 200px;
+                         width: 1300px;
+                         border: 1px solid white;
+                     }
+         
+                     .Picstex{
+                         margin-top: 60px;
+                         text-align: center;
+                         color: #fff;
+                         font-size: larger;
+                     }
+         
+                     #Clients{
+                         height: 200px;
+                         width: 1300px;
+                         background-color: white;
+                     }
+         
+                     .clientss{
+                         margin-top: 30px;
+                         text-align: center;
+                         color: grey;
+                         font-size: large;
+                     }
+         
+                     .diagramss{
+                         margin-left: 200px;
+                         margin-top: 20px;
+                         margin-right: 200px;
+                         margin-bottom: 20px;
+         
+                     }
+         
+                     #WOFUSay{
+                         background-image: url("f4.JPG");
+                         height: 500px;
+                         width: 1300px;
+                         border: 1px solid grey;
+                         text-decoration: none;
+                         color: white;	
+                     }
+                     .WOFUSays{
+                         margin-top: 30px;
+                         text-align: center;
+                         text-decoration: none;
+                         color: white;
+                         font-size: large;
+                     }
+         
+                     #PWOFUSay{
+                         margin-left: 50px;
+                         margin-top: 30px;
+                         margin-right: 50px;
+                         display: flex;
+                         flex-direction: row;
+                         justify-content: space-between;
+                         width: 80%;
+                         margin: aut0;
+                         
+                     }
+         
+                     .PWOFUSay1{
+                         height: 350px;
+                         width: 400px;
+                         margin-left: 50px;
+                         margin-top: 30px;
+                         background-color: white;
+                         text-decoration: none;
+                         color: grey;
+                         text-align: center;
+                     }
+         
+                     .PWOFUSay2{
+                         height: 300px;
+                         width: 400px;
+                         margin-left: 50px;
+                         margin-top: 30px;
+                         background-color: white;
+                         text-decoration: none;
+                         color: grey;
+                         text-align: center;
+                     }
+         
+                     .PWOFUSay3{
+                         height: 300px;
+                         width: 400px;
+                         margin-left: 50px;
+                         margin-top: 30px;
+                         background-color: white;
+                         text-decoration: none;
+                         color: grey;
+                         text-align: center;
+                     }
+         
+                     #RFAD{
+                         border: 1px Solid grey;
+                         height: 200px;
+                         width: 1300px;
+                         background-color: azure;
+                     }
+         
+                     .Rfad{
+                         margin-top: 50px;
+                         text-align: center;
+                         
+                     }
+         
+                     .Rfad button{
+                         height: 50px;
+                         width: 100px;
+                         background-color: red;
+                         color: #fff;
+                     }
+                     
+         
+                     .Rfad input{
+                         height: 50px;
+                         width: 280px;
+                         
+                     }
+#Locmap{
+    height: 500px;
+    width: 1300px;
+    border: 1px solid grey;
+    background-color: rgb(29, 25, 48);
+}
+.loc{
+    margin-top: 50px;
+    margin-left: 80px;
+    height: 400px;
+    width: 550px;
+    float: left;
+}
+         
+.loc1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 63%;
+    margin: aut0;
+    color: #fff;
+}
+         
+.loc2{
+    margin-top: -20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 93%;
+    margin: aut0;
+    color: #fff;
+}
+         
+.loc11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 68%;
+    margin: aut0;
+    color: #fff;
+}
+         
+         
+.loc22{
+    margin-top: -20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin: aut0;
+    color: #fff;
+}
+         
+.Maps{
+    margin-top: 50px;
+    margin-left: 80px;
+    height: 400px;
+    width: 500px;
+                         
+    float: left;
+}
+         
+.CopyR{
+    margin-left: 300px;
+                            
+    height: 50px;
+    width:600px;
+    text-decoration: none;
+    color: white;
+    float: center;
+}
+         
+
+
+
